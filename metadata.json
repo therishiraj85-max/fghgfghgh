@@ -1,0 +1,6 @@
+{
+  "name": "Healdesk",
+  "description": "A complete clinic and doctor management web application for small Indian clinics, general physicians, and specialist doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

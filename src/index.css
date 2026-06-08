@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --color-primary-brand: #1A6BB5;
+  --color-success-green: #0F9B6E;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #F4F6F9;
+  color: #1E293B; /* High-contrast Slate text text-slate-800 equivalent */
+}
